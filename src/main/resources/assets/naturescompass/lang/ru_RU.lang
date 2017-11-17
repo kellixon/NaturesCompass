@@ -1,0 +1,54 @@
+# Nature's Compass - Language File by kellixon
+# RUSSIA - RUSSIAN
+
+# ITEMS
+item.naturescompass.NaturesCompass.name=Природный компас
+
+# STRINGS - КНОПКИ
+string.naturescompass.back=Назад
+string.naturescompass.info=Инфо
+string.naturescompass.search=Поиск
+string.naturescompass.selectBiome=Выбрать биом
+string.naturescompass.sortBy=Сортировать по
+string.naturescompass.teleport=Телепортироваться
+
+# STRINGS - КЛИМАТЫ
+string.naturescompass.cold=Холодный
+string.naturescompass.medium=Средний
+string.naturescompass.ocean=Океан
+string.naturescompass.warm=Тёплый
+
+# STRINGS - ДИСТАНЦИЯ
+string.naturescompass.none=Нет
+string.naturescompass.veryLow=Очень низкая
+string.naturescompass.low=Низкая
+string.naturescompass.average=Средняя
+string.naturescompass.high=Высокая
+string.naturescompass.veryHigh=Очень высокая
+
+# STRINGS - ИНТЕРФЕЙС
+string.naturescompass.biome=Биом
+string.naturescompass.coordinates=Координаты
+string.naturescompass.distance=Дистанция
+string.naturescompass.found=Найдено
+string.naturescompass.notFound=Не найдено
+string.naturescompass.radius=Радиус
+string.naturescompass.samples=Образцы
+string.naturescompass.searching=Поиск
+string.naturescompass.status=Статус
+
+# STRINGS - ИНФО
+string.naturescompass.baseHeight=Базовая высота
+string.naturescompass.climate=Климат
+string.naturescompass.fillerBlock=Наполнительный блок
+string.naturescompass.heightVariation=Изменение высоты
+string.naturescompass.highHumidity=Высокая влажность
+string.naturescompass.name=Название
+string.naturescompass.precipitation=Осадки
+string.naturescompass.rainfall=Количество осадков
+string.naturescompass.temperature=Температура
+string.naturescompass.topBlock=Верхний блок
+
+# STRINGS - ОСАДКИ
+string.naturescompass.snow=Снег
+string.naturescompass.rain=Дождь
